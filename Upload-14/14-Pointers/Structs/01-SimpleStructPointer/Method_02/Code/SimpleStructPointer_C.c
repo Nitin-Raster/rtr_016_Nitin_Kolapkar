@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 // DEFINING STRUCT
 struct MyData
