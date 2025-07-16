@@ -1,0 +1,13 @@
+Program Started successfully
+
+
+OPENGL INFORMATION
+
+************************
+OpenGL Vendor	: Intel
+OpenGL Renderer	: Intel(R) HD Graphics 530
+OpenGL Version	: 4.6.0 - Build 31.0.101.2111
+************************
+
+Initialization() successful
+Program terminated successfully!
